@@ -2,5 +2,5 @@ package xlsx
 
 // Encoder is a basic XLSX encoder interface
 type Encoder interface {
-	MarshalXLSX(f *File) error
+	MarshalXLSX(*File) error
 }
