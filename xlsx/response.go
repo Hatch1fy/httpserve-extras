@@ -3,7 +3,7 @@ package xlsx
 import (
 	"io"
 
-	"github.com/tealeg/xlsx"
+	xlsx "github.com/Hatch1fy/tealeg-xlsx"
 )
 
 // NewResponse will return a new XLSX response
