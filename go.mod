@@ -2,4 +2,4 @@ module github.com/Hatch1fy/httpserve-extras
 
 go 1.14
 
-require github.com/Hatch1fy/tealeg-xlsx v1.9.0
+require github.com/Hatch1fy/tealeg-xlsx v0.1.1
